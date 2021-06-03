@@ -4,10 +4,10 @@
 
 ### `Using Method In This Project:`
 
-01.Component Create in same page.\
-02.useState Declare.\
-03.JSON Placeholder API Call.\
-04.useEffect Decale & Dynamic Data Load in useEffect
+01.==>Component Create in same page.\
+02.==>useState Declare.\
+03.==>JSON Placeholder API Call.\
+04.==>useEffect Decale & Dynamic Data Load in useEffect
 
 
 ### `npm start`
